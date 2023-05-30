@@ -1,5 +1,7 @@
 # Introduction
 
+This is the code for the [The Total Noob's Guide to Harnessing the GPU for LLaMA Inference](https://medium.com/@_init_/the-total-noobs-guide-to-harnessing-the-gpu-for-llama-inference-2e3c4fdfbc84) blog post.
+
 # Prerequisites
 1. Docker
 2. VS Code
